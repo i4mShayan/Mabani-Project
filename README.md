@@ -9,9 +9,9 @@ The 1st semester project
 ![This is an image](4.JPG)
 
 ## Important informations
-1. program has worked fine with c++ 11
+[^1] program has worked fine with c++ 11
 <br>
-2. file paths given to fstream works for windows.however it may not work in linux distributions/mac os.
+[^2] file paths given to fstream works for windows.however it may not work in linux distributions/mac os.
 <br>
 if you got file errors, just delete ".\\data\\" from every fstream file openings and 
 <br>
