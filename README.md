@@ -11,7 +11,7 @@ The 1st semester project
 ## Important informations
 - program has worked fine with c++ 11
 - file paths given to fstream works for windows. however it may not work in linux distributions/mac os.
-<br>
+#### What if got an error?
   if you got file errors, just delete ".\\data\\" from every fstream file openings and 
   <br>
   in working directory(where the program is) make 3 files with names of:
