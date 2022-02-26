@@ -3,10 +3,10 @@ The 1st semester project
 
 
 ## Some screenshota
-![This is an image](/1.jpg)
-![This is an image](/2.jpg)
-![This is an image](/3.jpg)
-![This is an image](/4.jpg)
+![This is an image](./1.jpg)
+![This is an image](./2.jpg)
+![This is an image](./3.jpg)
+![This is an image](./4.jpg)
 
 <br>
 ## Important informations
