@@ -19,5 +19,5 @@ The 1st semester project
   1. players.txt
   2. players_points.txt
   3. saved_games_count.txt
-  <br><br>
+  <br>
   <p>and finally it should work fine :)<p>
