@@ -12,12 +12,11 @@ The 1st semester project
 - program has worked fine with c++ 11
 - file paths given to fstream works for windows. however it may not work in linux distributions/mac os.
 ### What if got an error?
-  if you got file errors, just delete ".\\data\\" from every fstream file openings and 
-  <br>
-  in working directory(where the program is) make 3 files with names of:
-  <br>
-  1. players.txt
-  2. players_points.txt
-  3. saved_games_count.txt
-  <br>
-  <p>and finally it should work fine :)<p>
+if you got file errors, just delete ".\\data\\" from every fstream file openings and 
+<br>
+in working directory(where the program is) make 3 files with names of:
+<br>
+1. players.txt
+2. players_points.txt
+3. saved_games_count.txt
+<p>and finally it should work fine :)<p>
