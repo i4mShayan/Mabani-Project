@@ -10,7 +10,6 @@ The 1st semester project
 
 ## Important informations
 - program has worked fine with c++ 11
-<br>
 - file paths given to fstream works for windows.however it may not work in linux distributions/mac os.
 <br>
 if you got file errors, just delete ".\\data\\" from every fstream file openings and 
