@@ -2,14 +2,14 @@
 The 1st semester project
 
 
-##Some screenshota
-![This is an image](/assets/1.jpg)
-![This is an image](/assets/2.jpg)
-![This is an image](/assets/3.jpg)
-![This is an image](/assets/4.jpg)
+## Some screenshota
+![This is an image](1.jpg)
+![This is an image](2.jpg)
+![This is an image](3.jpg)
+![This is an image](4.jpg)
 
 <br>
-##Important informations
+## Important informations
 1) program has worked fine with c++ 11
 <br>
 2) file paths given to fstream works for windows.however it may not work in linux distributions/mac os.
