@@ -1,5 +1,5 @@
 # Minesweeper CLI game
-The 1st semester project
+The 1st semester ITP project
 
 
 ## Some screenshots
